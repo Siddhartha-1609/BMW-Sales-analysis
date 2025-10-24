@@ -8,7 +8,7 @@ This project analyzes BMW's sales performance from 2010 to 2024 using a CSV data
 - `Dashboard.PNG` – Dashboard preview
 
 ## 📸 Dashboard Preview
-![Dashboard](Dashboard.PNG)
+![Dashboard](Dashboard.png)
 
 ## 🚀 How to Use
 1. Clone the repo.
